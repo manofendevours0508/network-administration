@@ -1,0 +1,3 @@
+Project: Network Administration
+Router configuration prepared.
+Switch configuration prepared.
